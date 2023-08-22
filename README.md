@@ -3,7 +3,6 @@
 **PRML Major Project - Speech Emotion Recognition**
 
 Authors: Renu Sankhla (B21AI028), Arvind Kumar Sharma (B21AI006), Nitish Bhardwaj (B21AI056)
-Date: 28 April 2023
 
 ## Contribution
 - Renu Sankhla
